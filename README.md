@@ -1,3 +1,10 @@
+#!!IMPORTANTE!!
+##Para el funcionamiento del proyecto se debe considerar lo siguiente:
+
+**Debido a conflictos entre Next y Jasmine se debe cambiar el nombre de babel.config.json a babel.config.json.bak para que la página funcione y cargue y para las pruebas se debe revertir el nombre del archivo a babel.config.json**
+
+Esto fue extensivamente intentado de arreglar para que se pudieran ejecutar ambas la página y las pruebas al mismo tiempo pero no lo logré y por tiempo dejaré esta solución parche.
+
 # Kiwi Ayuda
 
 Plataforma web de apoyo a la adopción de mascotas, desarrollada con Next.js y React. El proyecto utiliza datos simulados en el navegador para gestionar mascotas, usuarios y solicitudes de adopción.
