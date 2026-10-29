@@ -1,4 +1,4 @@
-#!!IMPORTANTE!!
+# !!IMPORTANTE!!
 ##Para el funcionamiento del proyecto se debe considerar lo siguiente:
 
 **Debido a conflictos entre Next y Jasmine se debe cambiar el nombre de babel.config.json a babel.config.json.bak para que la página funcione y cargue y para las pruebas se debe revertir el nombre del archivo a babel.config.json**
